@@ -1,4 +1,9 @@
+/* Importar arquivos */
+@import url(./header.css);
+@import url(./cards.css);
+@import url(./footer.css);
 
+.content-nosso-time, .content-cursos, .content-faq
 
 /*  o menu dentro do header */
 .header-menu ul {
