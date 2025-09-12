@@ -8,14 +8,14 @@ html{
     scroll-behavior: smooth;
 }
 
-.content-nosso-time, .content-cursos, .content-faq, .content-contanto{
+.content-nosso-time, .content-cursos, .content-faq, .content-contato{
     width: 100%;
     height: 100vh;
     justify-content: center;
     display: flex;
     align-items: center;
     font-size: 40px;
-    color: white;
+    color: plum;
 }
 
 .content-nosso-time{
@@ -26,13 +26,14 @@ align-items: center;
 }
 
 .content-cursos{
-
+background-color: rgb(255, 221, 226);
 }
 
 .content-faq{
+background-color: rgb(255, 221, 226);
 
 }
 
-.content-contanto{
-
+.content-contato{
+background-color: rgb(255, 221, 226);
 }
