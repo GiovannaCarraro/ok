@@ -21,8 +21,9 @@ html{
 .content-nosso-time{
 background-color: rgb(255, 221, 226);
 display: flex;
-justify-content: space-evenly;
+justify-content: space-around;
 align-items: center;
+
 }
 
 .content-cursos{
