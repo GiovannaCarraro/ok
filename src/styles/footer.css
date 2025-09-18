@@ -1,0 +1,42 @@
+.footer-content{
+    position: fixed;
+    bottom: 0; 
+    height: 8vh;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    box-shadow: 0 2px 5px;
+    
+}
+
+.footer-addres{
+
+}
+
+.footer-addres_title{
+
+}
+
+.footer-info{
+
+}
+
+.footer-social{
+
+}
+
+.footer-social ul{
+
+}
+
+.footer-social img{
+
+}
+
+.effect:hover{
+
+}
